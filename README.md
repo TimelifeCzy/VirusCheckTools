@@ -7,7 +7,7 @@
 
 ➬ BagarBubba蠕虫: 全盘查杀和文件修复，MFC界面
 
-➬ sysetmd_linuxRAT: ELF文件，只编译了x64，支持样本(目前基于名称做的)-持久化(软连接和计划任务)检查和清理
+➬ sysetmd_linuxRAT: ELF文件，只编译了x64，全盘md5（指定路径也可以）-持久化(软连接和计划任务)检查和清理
 
 
 
